@@ -1,0 +1,17 @@
+/* header section 1 */
+
+.hdr-content-space{
+    background-color: #FBF9F6;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hdr-content-pages a{
+    font-family: var(--font-basis), serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-transform: none;
+}
